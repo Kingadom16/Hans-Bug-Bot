@@ -14,8 +14,8 @@ global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
+global.ownernumber = '233538932297'  //creator number
+global.ownername = 'kingadom' //owner name
 global.botname = 'Hans-Bug-bot' //name of the bot
 
 //sticker details
